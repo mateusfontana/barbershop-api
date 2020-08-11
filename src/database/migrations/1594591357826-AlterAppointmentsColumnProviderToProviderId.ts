@@ -3,7 +3,6 @@ import {
   QueryRunner,
   TableColumn,
   TableForeignKey,
-  DeleteDateColumn,
 } from 'typeorm';
 
 export default class AlterAppointmentsColumnProviderToProviderId1594591357826
